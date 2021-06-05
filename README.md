@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Valera Shabalin. Welcome! 
+# 👋 Welcome! 
 
 <!--
 **valera-shabalin/valera-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
